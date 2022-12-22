@@ -1,0 +1,28 @@
+{
+  "name": "random-str-izc",
+  "version": "1.0.0",
+  "description": "Random String Messages - Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaiasZc/random-str-izc.git"
+  },
+  "keywords": [],
+  "author": "Isaias Zuñiga <isaias.zunigacorrea@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IsaiasZc/random-str-izc/issues"
+  },
+  "homepage": "https://github.com/IsaiasZc/random-str-izc#readme",
+  "bin": {
+    "random-str-izc": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1",
+    "user": "^0.0.0"
+  }
+}
